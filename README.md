@@ -9,7 +9,7 @@ Hardware description:
 - Normally closed (NC) endstops
 - ATX PSU wired to power the hotend and heatbed from two separate channels
 - E3Dv6 12V hotend
-- MK6 220mm 12V circular heatbed with 4mm glass on top
+- MK2Y 220mm 12V circular heatbed with 4mm glass on top
 - 100kOhm thermocouples
 - Replaced heatbed MOSFET to IRLB3034 - more efficient, can handle higher loads easily with a small heatsink, generates much less heat
 - OctoPrint hosted on Raspberry Pi 3 with a video stream
