@@ -1,0 +1,16 @@
+FIRST PROBING FEEDRATE      SECOND PROBING FEEDRATE     REPEATABILITY
+1000                        1000/8                      10:33:15.048 : Mean: -1.135441 Min: -1.157 Max: -1.107 Range: 0.050
+                                                        10:33:15.048 : Standard Deviation: 0.013752
+
+1000                        1000/4                      10:37:29.903 : Mean: -1.192940 Min: -1.344 Max: -1.132 Range: 0.212
+                                                        10:37:29.903 : Standard Deviation: 0.066013
+
+1000/2                      1000/16                     10:43:40.794 : Mean: -1.121691 Min: -1.219 Max: -1.069 Range: 0.150
+                                                        10:43:40.797 : Standard Deviation: 0.048348
+                                    
+                                                        10:49:47.394 : Mean: -1.122941 Min: -1.169 Max: -1.082 Range: 0.087
+                                                        10:49:47.397 : Standard Deviation: 0.029074
+
+                                                        10:58:05.862 : Mean: -1.159187 Min: -1.219 Max: -1.107 Range: 0.113
+                                                        10:58:05.865 : Standard Deviation: 0.042133
+
