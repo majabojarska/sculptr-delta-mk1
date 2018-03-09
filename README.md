@@ -13,4 +13,4 @@ Hardware description:
 - 100kOhm thermocouples
 - Replaced heatbed MOSFET to IRLB3034 - more efficient, can handle higher loads easily with a small heatsink, generates much less heat
 - OctoPrint hosted on Raspberry Pi 3 with a video stream
-
+- 2x NeoPixel LEDs for print lighting
