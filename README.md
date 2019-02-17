@@ -1,8 +1,14 @@
+# Sculptr Delta MK1
+
+![Sculptr Delta MK1 printing an octopus model](images/DSC09739.jpg)
+
+### About
+
 This is a modified version of the generic Marlin-1.1.x firmware pulled from the original github repository.
-It was set up to work with my build of Sculptr Delta MK1.
+It's been set up to work with my build of Sculptr Delta MK1.
 Might need a bit of tweaking to fully work with yours :) .
 
-Hardware description:
+### Hardware description
 - RAMPS 1.4 EFB
 - RepRapDiscount FULL GRAPHIC Smart Controller
 - 4xA4988 Stepper Drivers
