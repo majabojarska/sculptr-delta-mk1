@@ -1,6 +1,6 @@
 # Sculptr Delta MK1
 
-![Sculptr Delta MK1 printing an octopus model](images/DSC09739.jpg)
+![Sculptr Delta MK1 printing an octopus model](images/DSC09739_small.jpg)
 
 ### About
 
